@@ -28,5 +28,5 @@ Currently, I am working toward building larger-scale, impactful projects, such a
 * [LinkedIn](Https://www.linkedin.com/in/shifat-uz-zaman-6601703b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * [Email Me](253-15-648@diu.edu.bd)
 
-**MD Sifat Uz Zaman** This project was built as part of my ongoing journey as a Computer Science and Engineering student at Daffodil International University, actively expanding my skill set in UI design and full-stack web development.
+**MD Shifat Uz Zaman** This project was built as part of my ongoing journey as a Computer Science and Engineering student at Daffodil International University, actively expanding my skill set in UI design and full-stack web development.
 
